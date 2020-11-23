@@ -1,4 +1,6 @@
 ### Hi there 👋
+## I am Rajesh. My main interest lies in Machine Learning and Data Science. 
+## I also have basic knowledge of Python. I am always curious to learn something new.
 
 <!--
 **RAJESHCOOL94/RAJESHCOOL94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
